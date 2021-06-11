@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nykaa Library</string>
+    <string name="enter_to_library">Enter to library</string>
+    <string name="exit_from_library">Exit from library</string>
+    <string name="session_history">Session History</string>
+    <string name="history">History</string>
+    <string name="notification_channel_id">123</string>
+    <string name="notification_title">Session</string>
+    <string name="notification_channel_name">Session timer</string>
+    <string name="click_button_to_start">Click below to start</string>
+    <string name="session_time">Session Time</string>
+    <string name="date">Date</string>
+    <string name="out_time">Out Time</string>
+    <string name="in_time">In Time</string>
+    <string name="time_remaining" formatted="false">Time Remaining %s</string>
+    <string name="total_session_time" formatted="false">Total Session time : %s</string>
+</resources>
